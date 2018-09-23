@@ -8,6 +8,7 @@ var server = http.createServer(function(req, res){
       res.writeHead(200, {"context-type":"application/json"});
       fs.createReadStream(__dirname+'/ques.json').pipe(res);
       // console.log(fs);
+      res.end();
     }else{
       res.writeHead(200, {"context-type":"text/plain"});
       res.write('Welcome get api here -> /api/questions');

@@ -3,7 +3,7 @@
     "ID": "87b225bf-4de6-489f-9e23-c8d40dd7bf29",
     "QuestionTypeId": 1,
     "Remarks": "",
-    "Description": "<root><span> A transfer of immovable property made with intent to defeat or delay the creditors of the transferor is ______  </span><span>\u2028</span></root>",
+    "Description": "A transfer of immovable property made with intent to defeat or delay the creditors of the transferor is ______.",
     "TopicId": 79,
     "TopicDepthString": "LAW/TPA - Transfer of Property Act",
     "HasImage": false,
@@ -26,7 +26,7 @@
       {
         "AnswerID": "07e401bb-6704-4688-8688-6c82d2f22f40",
         "QuestionID": "87b225bf-4de6-489f-9e23-c8d40dd7bf29",
-        "AnswerDescription": "<root><span>Void ab initio  </span><span>\u2028</span></root>",
+        "AnswerDescription": "Void ab initio",
         "IsCorrectAnswer": false,
         "AnswerOrder": "A",
         "Image64String": null,
@@ -39,7 +39,7 @@
       {
         "AnswerID": "189700cc-e30d-4167-9fef-bc30c3799674",
         "QuestionID": "87b225bf-4de6-489f-9e23-c8d40dd7bf29",
-        "AnswerDescription": "<root><span> Voidable at the option of  any creditor so defeated or delayed  </span><span>\u2028</span></root>",
+        "AnswerDescription": "Voidable at the option of  any creditor so defeated or delayed",
         "IsCorrectAnswer": true,
         "AnswerOrder": "B",
         "Image64String": null,
@@ -52,7 +52,7 @@
       {
         "AnswerID": "9d248ef4-58e1-45bd-a2ab-3764e9ba706e",
         "QuestionID": "87b225bf-4de6-489f-9e23-c8d40dd7bf29",
-        "AnswerDescription": "<root><span> Valid  </span><span>\u2028</span></root>",
+        "AnswerDescription": "Valid",
         "IsCorrectAnswer": false,
         "AnswerOrder": "C",
         "Image64String": null,
@@ -65,7 +65,7 @@
       {
         "AnswerID": "5cb07f2a-5621-4e0b-8cfb-1bba40885142",
         "QuestionID": "87b225bf-4de6-489f-9e23-c8d40dd7bf29",
-        "AnswerDescription": "<root><span> Illegal  </span><span>\u2028</span></root>",
+        "AnswerDescription": "Illegal",
         "IsCorrectAnswer": false,
         "AnswerOrder": "D",
         "Image64String": null,
@@ -104,7 +104,7 @@
     "ID": "87b225bf-4de6-489f-9e23-c8d40dd7bf30",
     "QuestionTypeId": 1,
     "Remarks": "",
-    "Description": "<root><span> This is a tricky question, try your luck by selecting the correct answer ______  </span><span>\u2028</span></root>",
+    "Description": "This is a tricky question, try your luck by selecting the correct answer ______",
     "TopicId": 79,
     "TopicDepthString": "LAW/TPA - Transfer of Property Act",
     "HasImage": false,
@@ -127,7 +127,7 @@
       {
         "AnswerID": "07e401bb-6704-4688-8688-6c82d2f22f44",
         "QuestionID": "87b225bf-4de6-489f-9e23-c8d40dd7bf30",
-        "AnswerDescription": "<root><span>I'm SuperMan  </span><span>\u2028</span></root>",
+        "AnswerDescription": "I'm SuperMan",
         "IsCorrectAnswer": false,
         "AnswerOrder": "A",
         "Image64String": null,
@@ -140,7 +140,7 @@
       {
         "AnswerID": "189700cc-e30d-4167-9fef-bc30c3799677",
         "QuestionID": "87b225bf-4de6-489f-9e23-c8d40dd7bf30",
-        "AnswerDescription": "<root><span>I'm SpiderMan  </span><span>\u2028</span></root>",
+        "AnswerDescription": "I'm SpiderMan",
         "IsCorrectAnswer": false,
         "AnswerOrder": "B",
         "Image64String": null,
@@ -153,7 +153,7 @@
       {
         "AnswerID": "9d248ef4-58e1-45bd-a2ab-3764e9ba7066",
         "QuestionID": "87b225bf-4de6-489f-9e23-c8d40dd7bf30",
-        "AnswerDescription": "<root><span>I'm BatMan</span><span>\u2028</span></root>",
+        "AnswerDescription": "I'm BatMan",
         "IsCorrectAnswer": false,
         "AnswerOrder": "C",
         "Image64String": null,
@@ -166,7 +166,7 @@
       {
         "AnswerID": "5cb07f2a-5621-4e0b-8cfb-1bba40885144",
         "QuestionID": "87b225bf-4de6-489f-9e23-c8d40dd7bf30",
-        "AnswerDescription": "<root><span>I'm Hanuman</span><span>\u2028</span></root>",
+        "AnswerDescription": "I'm Hanuman",
         "IsCorrectAnswer": true,
         "AnswerOrder": "D",
         "Image64String": null,
