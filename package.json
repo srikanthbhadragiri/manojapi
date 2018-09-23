@@ -1,0 +1,19 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srikanthbhadragiri/manojapi.git"
+  },
+  "author": "srikanth bhadragiri",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/srikanthbhadragiri/manojapi/issues"
+  },
+  "homepage": "https://github.com/srikanthbhadragiri/manojapi#readme"
+}
