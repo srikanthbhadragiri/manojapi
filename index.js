@@ -1,6 +1,6 @@
 var http = require('http');
 var fs = require('fs');
-var PORT = '5000';
+var PORT = process.env.PORT || '5000';
 
 var server = http.createServer(function(req, res){
     console.log('A user made a request *** ', req.url);
@@ -15,7 +15,7 @@ var server = http.createServer(function(req, res){
     }
 });
 
-server.listen(PORT, '127.0.0.1');
+server.listen(PORT);
 console.log('Server is now running...');
 
 
